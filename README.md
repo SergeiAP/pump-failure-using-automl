@@ -4,7 +4,7 @@ The project is aimed to test AutoML solutions: [TPOT](http://epistasislab.github
 
 # About dataset   
 
-![image.png](attachment:image.png)
+![Pump](./images/hand_pump_diagram.png)
 
 Can you predict which water pumps are faulty?    
 
